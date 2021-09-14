@@ -1,0 +1,280 @@
+lmutil - Copyright (c) 1989-2010 Flexera Software, Inc. All Rights Reserved.
+Flexible License Manager status on Mon 9/13/2021 10:00
+
+[Detecting lmgrd processes...]
+License server status: 27000@pacman
+    License file(s) on pacman: C:\Autodesk\Network License Manager\PACMAN0050563F80AB.lic:
+
+    pacman: license server UP (MASTER) v11.16
+
+Vendor daemon status (on pacman):
+
+  adskflex: UP v11.16
+Feature usage info:
+
+Users of 86815AECCOL_T_F:  (Total of 8 licenses issued;  Total of 2 licenses in use)
+
+  "86815AECCOL_T_F" v1.000, vendor: adskflex
+  floating license
+
+    lwli URBANTECH-64M URBANTECH-64M (v1.000) (pacman/27000 2425), start Mon 9/13 8:02
+    tyu URBANTECH-63M URBANTECH-63M (v1.000) (pacman/27000 3011), start Mon 9/13 9:39
+
+Users of 87393ACD_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87224ACD_2020_0F:  (Total of 8 licenses issued;  Total of 1 license in use)
+
+  "87224ACD_2020_0F" v1.000, vendor: adskflex
+  floating license
+
+    lwli URBANTECH-64M URBANTECH-64M (v1.0) (pacman/27000 1027), start Mon 9/13 9:23
+
+Users of 87084ACD_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86830ACD_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86604ACD_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86445ACD_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87398ARCHDESK_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87227ARCHDESK_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87087ARCHDESK_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86856ARCHDESK_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86480ARCHDESK_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86480ARCHDESK_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87445CIV3D_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87251CIV3D_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87140CIV3D_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86893CIV3D_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86718CIV3D_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86514CIV3D_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87399ACAD_E_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87228ACAD_E_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87088ACAD_E_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86635ACAD_E_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86635ACAD_E_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86481ACAD_E_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87403MAP_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87240MAP_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87091MAP_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86866MAP_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86719MAP_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86517MAP_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87401BLDSYS_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87230BLDSYS_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87090BLDSYS_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86855BLDSYS_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86631BLDSYS_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86479BLDSYS_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86648PNID_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86517PNID_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87402PLNT3D_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87241PLNT3D_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87153PLNT3D_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86894PLNT3D_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86650PLNT3D_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86517PLNT3D_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87397ARDES_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87226ARDES_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87086ARDES_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86832ARDES_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86606ARDES_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86474ARDES_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86720UTLDESN_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86517UTLDESN_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87443RVT_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87259RVT_2020_0F:  (Total of 8 licenses issued;  Total of 2 licenses in use)
+
+  "87259RVT_2020_0F" v1.000, vendor: adskflex
+  floating license
+
+    lwli URBANTECH-64M URBANTECH-64M (v1.0) (pacman/27000 2325), start Mon 9/13 8:02
+    tyu URBANTECH-63M URBANTECH-63M (v1.0) (pacman/27000 2911), start Mon 9/13 9:39
+
+Users of 87149RVT_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86917RVT_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86706RVT_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86453RVT_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86454REVIT_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86456RVTMPB_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86457REVITST_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87406NAVMAN_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87306NAVMAN_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87176NAVMAN_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86998NAVMAN_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86766NAVMAN_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86534NAVMAN_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87427VEHTRK_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87263VEHTRK_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87152VEHTRK_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86920VEHTRK_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86726VEHTRK_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86565VEHTRK_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 874583DSMAX_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 872423DSMAX_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 870723DSMAX_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 868333DSMAX_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 866333DSMAX_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 864713DSMAX_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86472MAXDES_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87474RECAP_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87282RECAP_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87093RECAP_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86984RECAP_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86747RECAP_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86538RECAP_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87436ADSTPR_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87246ADSTPR_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87096ADSTPR_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86857ADSTPR_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86612ADSTPR_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86507ADSTPR_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87423CADMEP_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87323CADMEP_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87166CADMEP_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86938CADMEP_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86777CADMEP_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86519CADMEP_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87389RSAPRO_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87245RSAPRO_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87170RSAPRO_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86941RSAPRO_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86659RSAPRO_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86439RSAPRO_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86937LIVE_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86822DYNSTD_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86643DYNSTD_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87428SBRDES_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87261SBRDES_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87151SBRDES_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86919SBRDES_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86792SBRDES_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86328SBRDES_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87400AMECH_PP_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87229AMECH_PP_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87089AMECH_PP_2019_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86839AMECH_PP_2018_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86627AMECH_PP_2017_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 86478AMECH_PP_2016_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87426IW360P_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87387IW360P_2020_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87518RVTGD_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of 87572C3DPE_2021_0F:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+
